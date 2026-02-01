@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Krishna Sharma  
 
-🚀 **MERN Stack Developer | React Developer**
-🌱 Learning & building **real-world projects**  
+🚀 **MERN Stack Developer | React Developer** 
 🎯 **Open to work & internships**
+
 
 💻 **Tech Stack & Skills**  
 
