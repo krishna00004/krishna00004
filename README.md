@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krishna Sharma  
 
-🚀 **MERN Stack Developer | React Developer**  
+🚀 **MERN Stack Developer | React Developer**
 🌱 Learning & building **real-world projects**  
 🎯 **Open to work & internships**
 
@@ -23,14 +23,15 @@
 - 🧩 OOPs Concepts  
 - 💻 C  
 - 💻 C++  
-- 🐍 Python  
+- 🐍 Python
 
-## 👨‍💻 About Me
-- Passionate about frontend & full-stack development  
-- Love building clean UI & scalable web apps  
-- Strong in React fundamentals, hooks & state management  
-- Currently working on MERN stack projects
+### 🔧 Tools & Platforms
+- 🧠 Git & GitHub  
+- 🖥️ VS Code  
+- 📮 Postman  
+- 🌐 REST APIs  
 
-
-✨ *Always curious to learn, build, and improve.*  
+## 📫 Connect with Me
+- GitHub: https://github.com/krishna00004  
+- LinkedIn: https://www.linkedin.com/in/krishna-sharma-1578bb302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
