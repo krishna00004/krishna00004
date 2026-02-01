@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Krishna Sharma  
 
 🚀 **MERN Stack Developer | React Developer**  
+🌱 Learning & building **real-world projects**  
+🎯 **Open to work & internships**
 
 💻 **Tech Stack & Skills**  
 
@@ -22,9 +24,6 @@
 - 💻 C  
 - 💻 C++  
 - 🐍 Python  
-
-🌱 Learning & building **real-world projects**  
-🎯 **Open to work & internships**
 
 ## 👨‍💻 About Me
 - Passionate about frontend & full-stack development  
