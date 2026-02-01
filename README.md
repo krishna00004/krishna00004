@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna Sharma  
 
-<!--
-**krishna00004/krishna00004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **MERN Stack Developer | React Developer**  
 
-Here are some ideas to get you started:
+💻 **Tech Stack & Skills**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Frontend
+- ⚛️ React  
+- 🎨 Tailwind CSS  
+- 🧩 HTML5  
+- 🎨 CSS3  
+- 📜 JavaScript  
+
+### 🛠️ Backend
+- 🟢 Node.js  
+- 🚂 Express.js  
+- 🍃 MongoDB  
+
+### 💡 Programming & CS
+- 🧠 Data Structures & Algorithms (DSA)  
+- 🧩 OOPs Concepts  
+- 💻 C  
+- 💻 C++  
+- 🐍 Python  
+
+🌱 Learning & building **real-world projects**  
+🎯 **Open to work & internships**
+
+## 👨‍💻 About Me
+- Passionate about frontend & full-stack development  
+- Love building clean UI & scalable web apps  
+- Strong in React fundamentals, hooks & state management  
+- Currently working on MERN stack projects
+
+
+✨ *Always curious to learn, build, and improve.*  
+
