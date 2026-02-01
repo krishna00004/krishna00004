@@ -33,5 +33,5 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/krishna00004  
-- LinkedIn: https://www.linkedin.com/in/krishna-sharma-1578bb302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://shorturl.at/IkzER
 
