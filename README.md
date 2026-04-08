@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Krishna Sharma  
 
-🚀 **MERN Stack Developer | React Developer** 
+🚀 **Frontend Developer | React Developer** 
 🎯 **Open to work & internships**
 
 
 💻 **Tech Stack & Skills**  
 
-### 🌐 Frontend
+### 🌐 Frontend (Good Knowledge)
 - ⚛️ React  
 - 🎨 Tailwind CSS  
 - 🧩 HTML5  
 - 🎨 CSS3  
 - 📜 JavaScript  
 
-### 🛠️ Backend
+### 🛠️ Backend (Basic Knowledge)
 - 🟢 Node.js  
 - 🚂 Express.js  
 - 🍃 MongoDB  
 
-### 💡 Programming & CS
+### 💡 Programming & CS (Basic Knowledge)
 - 🧠 Data Structures & Algorithms (DSA)  
 - 🧩 OOPs Concepts  
 - 💻 C  
